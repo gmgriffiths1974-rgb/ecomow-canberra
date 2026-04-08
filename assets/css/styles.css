@@ -280,6 +280,15 @@ p  { margin: 0 0 var(--s-4); max-width: 68ch; }
 .brand__text { display: flex; flex-direction: column; line-height: 1.1; }
 .brand__name { color: var(--green-900); font-weight: 800; }
 .brand__tag { color: var(--ink-500); font-size: var(--fs-xs); font-weight: 500; }
+.brand__logo {
+  display: block;
+  height: 56px;
+  width: auto;
+  max-width: 220px;
+  object-fit: contain;
+  border-radius: var(--radius-sm);
+}
+.footer__brand .brand__logo { height: 64px; }
 
 .nav { display: none; }
 .nav__list { display: flex; gap: var(--s-1); list-style: none; margin: 0; padding: 0; }
