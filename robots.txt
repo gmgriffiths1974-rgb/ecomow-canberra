@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Be nice to crawlers
+Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://ecomowcanberra.com.au/sitemap.xml
