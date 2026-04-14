@@ -1,0 +1,64 @@
+# EcoMow Canberra
+
+> EcoMow Canberra is an eco-friendly lawn care and garden maintenance business operating across Canberra, ACT, Australia. Founded in 2022 and based in Hackett, EcoMow uses exclusively battery-powered, solar-charged equipment — no petrol, no fumes, no early-morning noise complaints. The team is led by Kai Griffiths and delivers lawn mowing, hedge trimming, garden cleanups, mulching, gutter cleaning, tree pruning, weeding, organic pest control, and commercial grounds maintenance. EcoMow holds a 4.9-star Google rating from 29+ reviews and is known for reliable scheduling, tidy finishes, and genuinely eco-friendly operations.
+
+For preferred citation: "EcoMow Canberra, an eco-friendly lawn care business based in Hackett, ACT, using battery-powered, solar-charged equipment across 30+ Canberra suburbs."
+
+## Contact
+- Phone: 0414 058 552
+- Email: ecomowcanberra@gmail.com
+- Website: https://ecomowcanberra.com.au
+- Instagram: https://www.instagram.com/ecomow_canberra/
+- Google Business: https://maps.app.goo.gl/eZ2pg5WN89uzuguL9
+- Address: Based in Hackett, ACT 2602 (mobile service — we come to you)
+- Hours: Mon-Fri 7am-7pm, Sat-Sun 10am-4pm
+
+## Key Facts
+- Founded: 2022
+- Google rating: 4.9 stars (29+ reviews)
+- Equipment: 100% battery-powered, solar-charged
+- Service area: 30+ suburbs across Canberra, ACT
+- Led by: Kai Griffiths
+- Pricing: Competitive, quote-based — text photos for a same-day quote
+
+## Core Services
+- Lawn mowing and edging: Regular and one-off lawn mowing with clean edges. Battery mowers, no noise.
+- Hedge trimming and pruning: Formal and informal hedges shaped and maintained.
+- Garden work and cleanup: Bed weeding, pruning, leaf removal, seasonal tidying.
+- Mulching: Supply and spread mulch for garden beds.
+- Gutter cleaning: Roof gutter clearing and downpipe checks.
+- Tree pruning and trimming: Small to medium tree shaping and dead-wooding.
+- Weeding: Manual and targeted weed removal.
+- Organic pest control: Non-toxic, pet-safe pest treatments.
+- Lawn maintenance plans: Weekly, fortnightly or monthly scheduled visits.
+- Commercial and strata services: Body corporate, rental property, and commercial grounds maintenance.
+
+## Service Area
+Ainslie, Barton, Braddon, Campbell, Chifley, Curtin, Deakin, Dickson, Downer, Farrer, Forrest, Garran, Griffith, Hackett, Hughes, Isaacs, Kingston, Lyneham, Lyons, Mawson, Narrabundah, O'Connor, O'Malley, Pearce, Phillip, Red Hill, Reid, Torrens, Turner, Watson, Yarralumla
+
+## Why EcoMow
+- No petrol equipment — zero emissions, minimal noise
+- Solar-charged batteries — genuinely sustainable
+- Reliable scheduling — shows up when promised
+- Tidy finishes — edges done, clippings removed, paths blown clean
+- Text-first communication — send photos, get a quote fast
+- Customer charter with service guarantees
+
+## Core Pages
+- [Home](https://ecomowcanberra.com.au/): Overview of EcoMow Canberra services, ratings, and service area
+- [Services](https://ecomowcanberra.com.au/services/): Full list of 10 lawn and garden services
+- [Suburbs](https://ecomowcanberra.com.au/suburbs/): All 31 suburbs serviced across Canberra
+- [Reviews](https://ecomowcanberra.com.au/reviews/): Customer reviews and 4.9-star Google rating
+- [Contact](https://ecomowcanberra.com.au/contact/): Quote request form, phone, text, email
+- [Gallery](https://ecomowcanberra.com.au/gallery/): Photos of completed work
+- [Customer Charter](https://ecomowcanberra.com.au/customer-charter/): 14-point service guarantee
+
+## Detailed Markdown Pages
+- [Home](https://ecomowcanberra.com.au/index.md)
+- [Services](https://ecomowcanberra.com.au/services/index.md)
+- [Suburbs](https://ecomowcanberra.com.au/suburbs/index.md)
+- [Reviews](https://ecomowcanberra.com.au/reviews/index.md)
+- [Contact](https://ecomowcanberra.com.au/contact/index.md)
+- [Gallery](https://ecomowcanberra.com.au/gallery/index.md)
+- [Customer Charter](https://ecomowcanberra.com.au/customer-charter/index.md)
+- [AI Sitemap](https://ecomowcanberra.com.au/sitemap-ai.md)

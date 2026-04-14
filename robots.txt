@@ -1,8 +1,35 @@
 User-agent: *
 Allow: /
 
-# Be nice to crawlers
+Allow: /llms.txt
+Allow: /sitemap-ai.md
+Allow: /*.md$
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
 Crawl-delay: 1
 
-# Sitemap
 Sitemap: https://ecomowcanberra.com.au/sitemap.xml
+Sitemap: https://ecomowcanberra.com.au/sitemap-ai.md
