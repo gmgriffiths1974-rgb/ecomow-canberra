@@ -1,0 +1,26 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/services/weeding",
+      "destination": "/services/weed-management/",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/weeding/",
+      "destination": "/services/weed-management/",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/organic-pest-control",
+      "destination": "/services/pest-spraying/",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/organic-pest-control/",
+      "destination": "/services/pest-spraying/",
+      "statusCode": 301
+    }
+  ]
+}
