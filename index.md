@@ -163,6 +163,36 @@ Inner North, Inner South, and Woden Valley. Based in Hackett so scheduling is fa
 - Reid
 - Campbell
 
+## The questions we get asked over the fence.
+
+### Is everything really battery powered?
+
+Yes, every piece of gear. Mowers, edgers, hedge trimmers, blowers, all of it runs on batteries, and those batteries are charged off solar panels. No petrol goes near a job. That means no exhaust fumes drifting in your windows, no jerry cans rattling around in the back, and a lot less noise than the petrol crew down the street. We are not aware of anyone else in Canberra running a fully solar-charged setup.
+
+### Which Canberra suburbs do you cover?
+
+Kai is based in Hackett and works across 31 suburbs in Canberra's inner north, inner south and Woden Valley. That is where we are most days and where we can usually fit you in fastest. If you are just outside that and you have seen us around, call anyway and we will tell you straight whether we can get to you.
+
+### How do I get a quote?
+
+Text a few photos of your lawn or garden to 0414 058 552. You will usually get a clear price back within the hour. No site visit needed for most jobs, no obligation, and nobody turning up at your door to sell you something.
+
+### Do you do one-off jobs, or only regular visits?
+
+Both. Plenty of customers book a weekly or fortnightly mow and never think about it again. Plenty just want a one-off cleanup before a party, a rental inspection or a house sale. Neither gets treated as the less important job.
+
+### Is battery gear actually strong enough for a big or overgrown job?
+
+It is. This is professional-grade equipment, not the hardware store stuff, and we carry enough charged batteries to run all day without stopping. Overgrown blocks, long wet grass, thick hedges, we handle them. If a job genuinely needs something we do not run, we will tell you rather than waste your time.
+
+### Who actually turns up to do the work?
+
+Kai, or someone he has trained and works alongside. It is a small team that has been at this since 2022, not a franchise handing your address to whoever happens to be free. That is a fair part of why the Google rating sits at 4.9 across 29 reviews.
+
+### What are your hours?
+
+Monday to Friday, 7am to 7pm. Saturday and Sunday, 10am to 4pm. The weekend start is deliberately late so nobody gets woken up, which is an easier promise to keep when the gear is quiet to begin with.
+
 ## Ready for a tidy lawn and garden?
 
 Call, text or request a quote in under 60 seconds. Bank transfer preferred. Cash accepted. Free quotes, clear pricing, no obligation.

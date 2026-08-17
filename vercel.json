@@ -3,6 +3,17 @@
   "trailingSlash": true,
   "redirects": [
     {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.ecomowcanberra.com.au"
+        }
+      ],
+      "destination": "https://ecomowcanberra.com.au/:path*",
+      "statusCode": 301
+    },
+    {
       "source": "/services/weeding",
       "destination": "/services/weed-management/",
       "statusCode": 301
@@ -21,6 +32,23 @@
       "source": "/services/organic-pest-control/",
       "destination": "/services/pest-spraying/",
       "statusCode": 301
+    }
+  ],
+  "headers": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "ecomow-canberra.vercel.app"
+        }
+      ],
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
+      ]
     }
   ]
 }
