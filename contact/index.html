@@ -316,5 +316,24 @@
 </nav>
 
 <script src="/assets/js/nav.js" defer></script>
+<script>
+(function () {
+  var f = document.querySelector('form[action^="https://formspree.io"]');
+  if (!f || !window.fetch || !window.FormData) return;
+  var fallback = false;
+  f.addEventListener('submit', function (e) {
+    if (fallback) return; /* native submit as delivery fallback */
+    e.preventDefault();
+    var btn = f.querySelector('button[type="submit"]');
+    if (btn) { btn.disabled = true; btn.textContent = 'Sending\u2026'; }
+    fetch(f.action, { method: 'POST', body: new FormData(f), headers: { 'Accept': 'application/json' } })
+      .then(function (r) {
+        if (r.ok) { window.location.href = '/thanks/'; }
+        else { fallback = true; f.submit(); }
+      })
+      .catch(function () { fallback = true; f.submit(); });
+  });
+})();
+</script>
 </body>
 </html>
