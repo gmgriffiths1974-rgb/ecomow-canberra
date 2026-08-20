@@ -837,6 +837,7 @@ body { padding-bottom: 84px; }
 .footer__brand .brand__tag { color: var(--green-100); }
 .footer__brand p { color: var(--green-100); font-size: var(--fs-sm); max-width: 40ch; margin-top: var(--s-4); }
 
+.footer h3,
 .footer h4 {
   color: var(--paper);
   font-size: var(--fs-sm);
