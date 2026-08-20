@@ -15,7 +15,7 @@
   - HTML: https://ecomowcanberra.com.au/suburbs/
   - Markdown: https://ecomowcanberra.com.au/suburbs/index.md
 
-- **Reviews — 4.9★ on Google  — EcoMow Canberra**: Real reviews from EcoMow Canberra customers across the Inner North, Inner South and Woden Valley. 4.9 stars from 29+ Goo...
+- **Reviews — 4.9★ on Google  — EcoMow Canberra**: Real reviews from EcoMow Canberra customers across the Inner North, Inner South and Woden Valley. 4.9 stars from 34 Goo...
   - HTML: https://ecomowcanberra.com.au/reviews/
   - Markdown: https://ecomowcanberra.com.au/reviews/index.md
 

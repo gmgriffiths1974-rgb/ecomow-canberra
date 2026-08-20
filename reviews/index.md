@@ -1,6 +1,6 @@
 ---
 title: "Reviews — 4.9★ on Google"
-description: "Real reviews from EcoMow Canberra customers across the Inner North, Inner South and Woden Valley. 4.9 stars from 29+ Google reviews. See what people say about our quiet, battery-powered lawn and garden care."
+description: "Real reviews from EcoMow Canberra customers across the Inner North, Inner South and Woden Valley. 4.9 stars from 34 Google reviews. See what people say about our quiet, battery-powered lawn and garden care."
 canonical: "https://ecomowcanberra.com.au/reviews/"
 ---
 

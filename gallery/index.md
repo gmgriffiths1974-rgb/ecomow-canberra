@@ -10,18 +10,12 @@ Every photo here is from real Canberra jobs — lawns, hedges, garden resets and
 
 ## Gallery images
 
-- Lawn care. Fresh mow and edge on a Hackett front yard
-- Finished edges. Crisp edge work along a paved driveway
-- Hedging. Hedge reset — crisp, straight, properly tidy
-- Equipment. Solar-charged battery rig out on site
-- Garden work. Mulch refresh and bed tidy
-- Behind the scenes. Kai on the tools, Inner North Canberra
-- Results. Before-and-after lawn reset
-- Lawn care. Verge and nature strip tidied up
-- Hedging. Long photinia hedge run brought back to line
-- Equipment. Battery gear loaded, ready for the next job
-- Garden work. Leaf litter cleared, paths blown
-- Results. Autumn cleanup, ready for winter
+- Mulching. Fresh mulch barrowed in and spread across the beds
+- Hedging. Long boundary hedge cut back to a string line
+- Lawn care. Quiet battery mower, even cut, no fumes
+- Garden work. Bed reset with recycled brick edging, levelled and set out
+- Hedging. Precision trim to the line, battery-powered
+- Behind the scenes. Mulch delivery worked off the trailer, barrow by barrow
 
 ## Ready for your garden transformation?
 
