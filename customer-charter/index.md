@@ -84,6 +84,7 @@ At EcoMow, we use battery-powered equipment charged by solar to deliver low-nois
 
 - We only use your contact details for quoting, scheduling and service updates.
 - We won't share your details with third parties without your consent.
+- We use Google Analytics to understand how people use this website (pages visited, buttons tapped). It doesn't identify you personally.
 
 ## Service Area & Hours
 
