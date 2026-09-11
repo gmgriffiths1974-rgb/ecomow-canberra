@@ -27,12 +27,14 @@
     return 'body';
   }
 
-  /* Tap-to-call and tap-to-SMS, captured before navigation, sent via beacon. */
+  /* Tap-to-call, tap-to-SMS and the sticky bar Quote button, captured before navigation, sent via beacon. */
   document.addEventListener('click', function (e) {
-    var a = e.target && e.target.closest ? e.target.closest('a[href^="tel:"], a[href^="sms:"]') : null;
+    var a = e.target && e.target.closest ? e.target.closest('a[href^="tel:"], a[href^="sms:"], a[href*="#quote-form"]') : null;
     if (!a) return;
     var href = a.getAttribute('href') || '';
-    var name = href.indexOf('tel:') === 0 ? 'tap_to_call' : 'tap_to_sms';
+    var name = href.indexOf('tel:') === 0 ? 'tap_to_call'
+             : href.indexOf('sms:') === 0 ? 'tap_to_sms'
+             : 'tap_to_quote';
     gtag('event', name, {
       link_location: location_of(a),
       page_path: window.location.pathname,
