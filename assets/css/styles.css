@@ -881,3 +881,6 @@ body { padding-bottom: 84px; }
   .service-card, .review-card, .step, .job-card { border: 2px solid CanvasText; }
   .faq { border: 2px solid CanvasText; }
 }
+
+/* Sticky bar Quote button jumps to the contact form; clear the sticky header */
+#quote-form { scroll-margin-top: 88px; }
