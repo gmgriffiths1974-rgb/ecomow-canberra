@@ -413,6 +413,7 @@ p  { margin: 0 0 var(--s-4); max-width: 68ch; }
   .hero h1 { max-width: 22ch; margin-left: auto; margin-right: auto; }
   .hero .lead { max-width: 50ch; margin-left: auto; margin-right: auto; font-size: 1.375rem; }
   .hero__badges { justify-content: center; }
+  .hero .btn-row { justify-content: center; }
   .hero__rating { display: inline-flex; }
 }
 
@@ -770,6 +771,10 @@ p  { margin: 0 0 var(--s-4); max-width: 68ch; }
 .final-cta h2 { color: var(--paper); }
 .final-cta p { color: var(--green-100); max-width: 55ch; margin: 0 auto var(--s-5); }
 .final-cta .btn-row { justify-content: center; }
+/* Quote, call and text buttons: full width and stacked on phones */
+@media (max-width: 639px) {
+  .hero .btn-row .btn, .final-cta .btn-row .btn { flex: 1 1 100%; }
+}
 
 /* -------------------- sticky mobile bar -------------------- */
 .mobile-bar {
