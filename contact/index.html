@@ -322,6 +322,22 @@
 
 <script src="/assets/js/nav.js" defer></script>
 <script>
+/* Arriving from a Quote button (#quote-form): land on the form itself, not the top of the page.
+   Browsers do not reliably jump to the anchor on load, so do it explicitly, once now and once after
+   everything has loaded, unless the visitor has already started scrolling. */
+(function () {
+  if (window.location.hash !== '#quote-form') return;
+  var moved = false;
+  ['wheel', 'touchstart', 'keydown'].forEach(function (ev) {
+    window.addEventListener(ev, function () { moved = true; }, { once: true, passive: true });
+  });
+  function go() {
+    var el = document.getElementById('quote-form');
+    if (el) el.scrollIntoView({ behavior: 'instant', block: 'start' });
+  }
+  go();
+  window.addEventListener('load', function () { if (!moved) go(); });
+})();
 (function () {
   var f = document.querySelector('form[action^="https://formspree.io"]');
   if (!f || !window.fetch || !window.FormData) return;
