@@ -211,8 +211,12 @@
         <input id="email" name="email" type="email" style="width:100%;padding:var(--s-3);border:2px solid var(--green-100);border-radius:var(--radius-sm);font-size:1rem;background:white">
       </div>
       <div>
+        <label for="street_address" style="display:block;font-weight:600;margin-bottom:var(--s-1)">Street address</label>
+        <input id="street_address" name="street_address" type="text" required autocomplete="address-line1" pattern=".*[0-9].*" placeholder="e.g. 12 Smith Street" oninvalid="this.setCustomValidity('Please enter your street address, including the house number.')" oninput="this.setCustomValidity('')" style="width:100%;padding:var(--s-3);border:2px solid var(--green-100);border-radius:var(--radius-sm);font-size:1rem;background:white">
+      </div>
+      <div>
         <label for="suburb" style="display:block;font-weight:600;margin-bottom:var(--s-1)">Suburb</label>
-        <input id="suburb" name="suburb" type="text" required placeholder="e.g. Hackett" style="width:100%;padding:var(--s-3);border:2px solid var(--green-100);border-radius:var(--radius-sm);font-size:1rem;background:white">
+        <input id="suburb" name="suburb" type="text" required autocomplete="address-level2" placeholder="e.g. Hackett" style="width:100%;padding:var(--s-3);border:2px solid var(--green-100);border-radius:var(--radius-sm);font-size:1rem;background:white">
       </div>
       <div>
         <label for="service" style="display:block;font-weight:600;margin-bottom:var(--s-1)">What do you need?</label>
