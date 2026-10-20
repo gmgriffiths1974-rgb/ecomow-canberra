@@ -32,6 +32,871 @@
       "source": "/services/organic-pest-control/",
       "destination": "/services/pest-spraying/",
       "statusCode": 301
+    },
+    {
+      "source": "/suburbs/aranda",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/aranda/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/belconnen",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/belconnen/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/bruce",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/bruce/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/charnwood",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/charnwood/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/dunlop",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/dunlop/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/evatt",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/evatt/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/florey",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/florey/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/fraser",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/fraser/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/giralang",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/giralang/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/hawker",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/hawker/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/higgins",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/higgins/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/holt",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/holt/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/kaleen",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/kaleen/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/latham",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/latham/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/macgregor",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/macgregor/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/macquarie",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/macquarie/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/mckellar",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/mckellar/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/melba",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/melba/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/scullin",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/scullin/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/spence",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/spence/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/weetangera",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/weetangera/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/amaroo",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/amaroo/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/banks",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/banks/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/bonner",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/bonner/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/bonython",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/bonython/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/calwell",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/calwell/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/casey",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/casey/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/chapman",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/chapman/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/chisholm",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/chisholm/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/conder",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/conder/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/coombs",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/coombs/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/crace",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/crace/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/denman-prospect",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/denman-prospect/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/duffy",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/duffy/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/fadden",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/fadden/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/fisher",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/fisher/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/forde",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/forde/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/franklin",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/franklin/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/gilmore",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/gilmore/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/gordon",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/gordon/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/gowrie",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/gowrie/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/greenway",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/greenway/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/gungahlin",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/gungahlin/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/harrison",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/harrison/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/holder",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/holder/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/isabella-plains",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/isabella-plains/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/jacka",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/jacka/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/kambah",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/kambah/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/karabar",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/karabar/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/macarthur",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/macarthur/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/mitchell",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/mitchell/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/molonglo",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/molonglo/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/monash",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/monash/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/moncrieff",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/moncrieff/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/ngunnawal",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/ngunnawal/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/nicholls",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/nicholls/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/oxley",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/oxley/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/palmerston",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/palmerston/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/queanbeyan",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/queanbeyan/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/queanbeyan-east",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/queanbeyan-east/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/queanbeyan-west",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/queanbeyan-west/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/richardson",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/richardson/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/rivett",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/rivett/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/stirling",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/stirling/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/taylor",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/taylor/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/wanniassa",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/wanniassa/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/waramanga",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/waramanga/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/weston",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/weston/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/whitlam",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/whitlam/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/wright",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/suburbs/wright/:path*",
+      "destination": "/suburbs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/lawn-mowing-ainslie/index.md",
+      "destination": "/services/lawn-mowing/index.md",
+      "statusCode": 301
+    },
+    {
+      "source": "/lawn-mowing-ainslie",
+      "destination": "/services/lawn-mowing/",
+      "statusCode": 301
+    },
+    {
+      "source": "/lawn-mowing-ainslie/:path*",
+      "destination": "/services/lawn-mowing/",
+      "statusCode": 301
+    },
+    {
+      "source": "/lawn-mowing-braddon/index.md",
+      "destination": "/services/lawn-mowing/index.md",
+      "statusCode": 301
+    },
+    {
+      "source": "/lawn-mowing-braddon",
+      "destination": "/services/lawn-mowing/",
+      "statusCode": 301
+    },
+    {
+      "source": "/lawn-mowing-braddon/:path*",
+      "destination": "/services/lawn-mowing/",
+      "statusCode": 301
+    },
+    {
+      "source": "/lawn-mowing-deakin/index.md",
+      "destination": "/services/lawn-mowing/index.md",
+      "statusCode": 301
+    },
+    {
+      "source": "/lawn-mowing-deakin",
+      "destination": "/services/lawn-mowing/",
+      "statusCode": 301
+    },
+    {
+      "source": "/lawn-mowing-deakin/:path*",
+      "destination": "/services/lawn-mowing/",
+      "statusCode": 301
+    },
+    {
+      "source": "/lawn-mowing-hackett/index.md",
+      "destination": "/services/lawn-mowing/index.md",
+      "statusCode": 301
+    },
+    {
+      "source": "/lawn-mowing-hackett",
+      "destination": "/services/lawn-mowing/",
+      "statusCode": 301
+    },
+    {
+      "source": "/lawn-mowing-hackett/:path*",
+      "destination": "/services/lawn-mowing/",
+      "statusCode": 301
+    },
+    {
+      "source": "/lawn-mowing-red-hill/index.md",
+      "destination": "/services/lawn-mowing/index.md",
+      "statusCode": 301
+    },
+    {
+      "source": "/lawn-mowing-red-hill",
+      "destination": "/services/lawn-mowing/",
+      "statusCode": 301
+    },
+    {
+      "source": "/lawn-mowing-red-hill/:path*",
+      "destination": "/services/lawn-mowing/",
+      "statusCode": 301
+    },
+    {
+      "source": "/lawn-mowing-yarralumla/index.md",
+      "destination": "/services/lawn-mowing/index.md",
+      "statusCode": 301
+    },
+    {
+      "source": "/lawn-mowing-yarralumla",
+      "destination": "/services/lawn-mowing/",
+      "statusCode": 301
+    },
+    {
+      "source": "/lawn-mowing-yarralumla/:path*",
+      "destination": "/services/lawn-mowing/",
+      "statusCode": 301
+    },
+    {
+      "source": "/hedge-trimming-ainslie/index.md",
+      "destination": "/services/hedge-trimming/index.md",
+      "statusCode": 301
+    },
+    {
+      "source": "/hedge-trimming-ainslie",
+      "destination": "/services/hedge-trimming/",
+      "statusCode": 301
+    },
+    {
+      "source": "/hedge-trimming-ainslie/:path*",
+      "destination": "/services/hedge-trimming/",
+      "statusCode": 301
+    },
+    {
+      "source": "/hedge-trimming-forrest/index.md",
+      "destination": "/services/hedge-trimming/index.md",
+      "statusCode": 301
+    },
+    {
+      "source": "/hedge-trimming-forrest",
+      "destination": "/services/hedge-trimming/",
+      "statusCode": 301
+    },
+    {
+      "source": "/hedge-trimming-forrest/:path*",
+      "destination": "/services/hedge-trimming/",
+      "statusCode": 301
+    },
+    {
+      "source": "/hedge-trimming-hackett/index.md",
+      "destination": "/services/hedge-trimming/index.md",
+      "statusCode": 301
+    },
+    {
+      "source": "/hedge-trimming-hackett",
+      "destination": "/services/hedge-trimming/",
+      "statusCode": 301
+    },
+    {
+      "source": "/hedge-trimming-hackett/:path*",
+      "destination": "/services/hedge-trimming/",
+      "statusCode": 301
+    },
+    {
+      "source": "/hedge-trimming-red-hill/index.md",
+      "destination": "/services/hedge-trimming/index.md",
+      "statusCode": 301
+    },
+    {
+      "source": "/hedge-trimming-red-hill",
+      "destination": "/services/hedge-trimming/",
+      "statusCode": 301
+    },
+    {
+      "source": "/hedge-trimming-red-hill/:path*",
+      "destination": "/services/hedge-trimming/",
+      "statusCode": 301
+    },
+    {
+      "source": "/hedge-trimming-yarralumla/index.md",
+      "destination": "/services/hedge-trimming/index.md",
+      "statusCode": 301
+    },
+    {
+      "source": "/hedge-trimming-yarralumla",
+      "destination": "/services/hedge-trimming/",
+      "statusCode": 301
+    },
+    {
+      "source": "/hedge-trimming-yarralumla/:path*",
+      "destination": "/services/hedge-trimming/",
+      "statusCode": 301
     }
   ],
   "headers": [

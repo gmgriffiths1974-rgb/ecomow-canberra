@@ -682,6 +682,16 @@ p  { margin: 0 0 var(--s-4); max-width: 68ch; }
   text-align: center;
   transition: all var(--transition);
 }
+.suburb-list .suburb-list__item {
+  display: block;
+  padding: var(--s-4);
+  background: var(--paper);
+  border: 1px solid var(--ink-100);
+  border-radius: var(--radius);
+  color: var(--ink-900);
+  font-weight: 600;
+  text-align: center;
+}
 .suburb-list a:hover {
   border-color: var(--green-500);
   background: var(--green-50);

@@ -33,55 +33,11 @@
 
 
 ## Lawn Mowing Pages
-- **Lawn mowing Ainslie, ACT  — Local battery-powered  — EcoMow**: Lawn mowing in Ainslie 2602. Battery-powered, quiet, neighbour-friendly. Tidy finish, clear pricing, fast scheduling. Ca...
-  - HTML: https://ecomowcanberra.com.au/lawn-mowing-ainslie/
-  - Markdown: https://ecomowcanberra.com.au/lawn-mowing-ainslie/index.md
-
-- **Lawn mowing Braddon, ACT  — Local battery-powered  — EcoMow**: Lawn mowing in Braddon 2612. Battery-powered, quiet, neighbour-friendly. Tidy finish, clear pricing, fast scheduling. Ca...
-  - HTML: https://ecomowcanberra.com.au/lawn-mowing-braddon/
-  - Markdown: https://ecomowcanberra.com.au/lawn-mowing-braddon/index.md
-
-- **Lawn mowing Deakin, ACT  — Local battery-powered  — EcoMow**: Lawn mowing in Deakin 2600. Battery-powered, quiet, neighbour-friendly. Tidy finish, clear pricing, fast scheduling. Cal...
-  - HTML: https://ecomowcanberra.com.au/lawn-mowing-deakin/
-  - Markdown: https://ecomowcanberra.com.au/lawn-mowing-deakin/index.md
-
-- **Lawn mowing Hackett, ACT  — Local battery-powered mowing  — EcoMow**: Lawn mowing in Hackett by a Hackett-based team. Quiet battery mowers, crisp edges, tidy finish and fast scheduling for 2...
-  - HTML: https://ecomowcanberra.com.au/lawn-mowing-hackett/
-  - Markdown: https://ecomowcanberra.com.au/lawn-mowing-hackett/index.md
-
-- **Lawn mowing Red Hill, ACT  — Local battery-powered  — EcoMow**: Lawn mowing in Red Hill 2603. Battery-powered, quiet, neighbour-friendly. Tidy finish, clear pricing, fast scheduling. C...
-  - HTML: https://ecomowcanberra.com.au/lawn-mowing-red-hill/
-  - Markdown: https://ecomowcanberra.com.au/lawn-mowing-red-hill/index.md
-
-- **Lawn mowing Yarralumla, ACT  — Local battery-powered  — EcoMow**: Lawn mowing in Yarralumla 2600. Battery-powered, quiet, neighbour-friendly. Tidy finish, clear pricing, fast scheduling....
-  - HTML: https://ecomowcanberra.com.au/lawn-mowing-yarralumla/
-  - Markdown: https://ecomowcanberra.com.au/lawn-mowing-yarralumla/index.md
-
 
 ## Hedge Trimming Pages
-- **Hedge trimming Ainslie, ACT  — Local battery-powered  — EcoMow**: Hedge trimming in Ainslie 2602. Battery-powered, quiet, neighbour-friendly. Tidy finish, clear pricing, fast scheduling....
-  - HTML: https://ecomowcanberra.com.au/hedge-trimming-ainslie/
-  - Markdown: https://ecomowcanberra.com.au/hedge-trimming-ainslie/index.md
-
-- **Hedge trimming Forrest, ACT  — Local battery-powered  — EcoMow**: Hedge trimming in Forrest 2603. Battery-powered, quiet, neighbour-friendly. Tidy finish, clear pricing, fast scheduling....
-  - HTML: https://ecomowcanberra.com.au/hedge-trimming-forrest/
-  - Markdown: https://ecomowcanberra.com.au/hedge-trimming-forrest/index.md
-
-- **Hedge trimming Hackett, ACT  — Local battery-powered  — EcoMow**: Hedge trimming in Hackett 2602. Battery-powered, quiet, neighbour-friendly. Tidy finish, clear pricing, fast scheduling....
-  - HTML: https://ecomowcanberra.com.au/hedge-trimming-hackett/
-  - Markdown: https://ecomowcanberra.com.au/hedge-trimming-hackett/index.md
-
 - **Hedge trimming O'Connor, ACT  — Local battery-powered  — EcoMow**: Hedge trimming in O'Connor 2602. Battery-powered, quiet, neighbour-friendly. Tidy finish, clear pricing, fast scheduling...
   - HTML: https://ecomowcanberra.com.au/hedge-trimming-oconnor/
   - Markdown: https://ecomowcanberra.com.au/hedge-trimming-oconnor/index.md
-
-- **Hedge trimming Red Hill, ACT  — Local battery-powered  — EcoMow**: Hedge trimming in Red Hill 2603. Battery-powered, quiet, neighbour-friendly. Tidy finish, clear pricing, fast scheduling...
-  - HTML: https://ecomowcanberra.com.au/hedge-trimming-red-hill/
-  - Markdown: https://ecomowcanberra.com.au/hedge-trimming-red-hill/index.md
-
-- **Hedge trimming Yarralumla, ACT  — Local battery-powered  — EcoMow**: Hedge trimming in Yarralumla 2600. Battery-powered, quiet, neighbour-friendly. Tidy finish, clear pricing, fast scheduli...
-  - HTML: https://ecomowcanberra.com.au/hedge-trimming-yarralumla/
-  - Markdown: https://ecomowcanberra.com.au/hedge-trimming-yarralumla/index.md
 
 
 ## Suburb Pages

@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 """Generate Gungahlin suburb pages for EcoMow Canberra."""
+
+import sys
+# RETIRED 2026-10-20: the outer-suburb pages this script generated were cut and 301'd to /suburbs/.
+# Decision and list: Garys aiOS, K&G Enterprises/Eco Mow Canberra/Eco Mow Canberra Resources/care-buyer-services-and-page-cull-brief-2026-10-20.md
+# Running it would bring the pages back. Remove this guard only on a new decision.
+sys.exit("Retired 2026-10-20: outer suburb pages were cut. See the care-buyer brief.")
 import os, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from generate_belconnen import TEMPLATE, REVIEWS
