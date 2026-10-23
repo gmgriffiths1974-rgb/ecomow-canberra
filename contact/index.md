@@ -24,7 +24,7 @@ Bank transfer preferred. Cash accepted. Simple itemised invoices. Free quotes, c
 
 ## Send a few details and Kai will reply.
 
-For fastest response, text your address and a photo to 0414 058 552 .
+For fastest response, text your address and a photo to 0468 039 979 .
 
 Your details are only used for quoting and scheduling. See our Customer Charter for details.
 

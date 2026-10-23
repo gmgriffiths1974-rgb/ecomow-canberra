@@ -1,6 +1,6 @@
 ---
 title: "EcoMow Canberra"
-description: "Battery-powered, solar-charged lawn mowing, hedging and garden care across Canberra. Friendly service, tidy finishes, no noise complaints. Since 2022. Call Kai on 0414 058 552."
+description: "Battery-powered, solar-charged lawn mowing, hedging and garden care across Canberra. Friendly service, tidy finishes, no noise complaints. Since 2022. Call Kai on 0468 039 979."
 canonical: "https://ecomowcanberra.com.au/"
 ---
 
@@ -175,7 +175,7 @@ Kai is based in Hackett and works across 31 suburbs in Canberra's inner north, i
 
 ### How do I get a quote?
 
-Text a few photos of your lawn or garden to 0414 058 552. You will usually get a clear price back within the hour. No site visit needed for most jobs, no obligation, and nobody turning up at your door to sell you something.
+Text a few photos of your lawn or garden to 0468 039 979. You will usually get a clear price back within the hour. No site visit needed for most jobs, no obligation, and nobody turning up at your door to sell you something.
 
 ### Do you do one-off jobs, or only regular visits?
 

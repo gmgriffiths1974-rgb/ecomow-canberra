@@ -1,6 +1,6 @@
 ---
 title: "Hedge trimming O'Connor, ACT"
-description: "Hedge trimming in O'Connor 2602. Battery-powered, quiet, neighbour-friendly. Tidy finish, clear pricing, fast scheduling. Call Kai on 0414 058 552."
+description: "Hedge trimming in O'Connor 2602. Battery-powered, quiet, neighbour-friendly. Tidy finish, clear pricing, fast scheduling. Call Kai on 0468 039 979."
 canonical: "https://ecomowcanberra.com.au/hedge-trimming-oconnor/"
 ---
 
@@ -60,7 +60,7 @@ We also time O'Connor hedge visits around the ANU calendar when we can — stude
 
 ## Questions we get from O'Connor customers.
 
-Hedge trimming in O'Connor is priced based on the length, height and condition of the hedge. Text us a photo and the approximate run-length to 0414 058 552 and you'll get a clear, free quote — usually back within the hour during business hours.
+Hedge trimming in O'Connor is priced based on the length, height and condition of the hedge. Text us a photo and the approximate run-length to 0468 039 979 and you'll get a clear, free quote — usually back within the hour during business hours.
 
 Yes. We bag or trailer every clipping, blow the drop zone clean, and you won't find stray bits of hedge on the path, the driveway or the lawn when we leave.
 

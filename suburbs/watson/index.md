@@ -1,6 +1,6 @@
 ---
 title: "Lawn mowing & garden care in Watson, ACT"
-description: "Battery-powered lawn mowing, hedging and garden care in Watson 2602. Quick scheduling, tidy finishes, neighbour-friendly. Call Kai on 0414 058 552."
+description: "Battery-powered lawn mowing, hedging and garden care in Watson 2602. Quick scheduling, tidy finishes, neighbour-friendly. Call Kai on 0468 039 979."
 canonical: "https://ecomowcanberra.com.au/suburbs/watson/"
 ---
 
@@ -104,7 +104,7 @@ Yes. Weekly, fortnightly or monthly depending on growth. You can adjust by SMS a
 
 ## Ready for a tidy lawn and garden in Watson?
 
-Call Kai on 0414 058 552, text for a fast quote with your address and photos, or use our contact form and we'll reply quickly.
+Call Kai on 0468 039 979, text for a fast quote with your address and photos, or use our contact form and we'll reply quickly.
 
 ---
 *Source: [Lawn mowing & garden care in Watson, ACT](https://ecomowcanberra.com.au/suburbs/watson/)*

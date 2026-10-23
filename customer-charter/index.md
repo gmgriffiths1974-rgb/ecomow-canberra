@@ -91,7 +91,7 @@ At EcoMow, we use battery-powered equipment charged by solar to deliver low-nois
 - We serve all of Canberra (Inner North, Inner South, Belconnen, Gungahlin, Woden Valley, Weston Creek, Tuggeranong and Molonglo Valley).
 - Booking windows are during permitted daytime operating hours in the ACT.
 
-Last updated: 7 October 2025. Contact EcoMow on 0414 058 552 or ecomowcanberra@gmail.com .
+Last updated: 7 October 2025. Contact EcoMow on 0468 039 979 or ecomowcanberra@gmail.com .
 
 ## Ready to experience the service?
 

@@ -1,6 +1,6 @@
 ---
 title: "Services"
-description: "Lawn mowing, hedging, mulching, garden cleanups, gutters, tree work and more. Quiet, battery-powered, eco-friendly services across Canberra. Since 2022. Call 0414 058 552."
+description: "Lawn mowing, hedging, mulching, garden cleanups, gutters, tree work and more. Quiet, battery-powered, eco-friendly services across Canberra. Since 2022. Call 0468 039 979."
 canonical: "https://ecomowcanberra.com.au/services/"
 ---
 
