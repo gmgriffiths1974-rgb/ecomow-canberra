@@ -99,13 +99,13 @@ Professional tree care to maintain health, safety and appearance. Small to mediu
 
 ## Commercial & strata services
 
-Reliable garden maintenance for body corporates, real estate and businesses. Scheduled programs with clear reporting, site photos, and flexible timing around tenants.
+Grounds maintenance for strata complexes and commercial sites across Canberra and Queanbeyan, at one fixed price per visit, from $120 ex GST. Details: https://ecomowcanberra.com.au/services/commercial-strata/
 
-- Scheduled maintenance programs
-- Clear communication and reporting
-- Site photos and progress updates
-- Flexible scheduling around tenants
-- Fully covered, fully accountable
+- Visits that follow the seasons, on a day you agree
+- Quiet battery tools, so early visits don't wake residents
+- Your job number on every invoice
+- Price held for 12 months
+- $10 million public liability insurance
 
 ## Ready to transform your garden?
 
