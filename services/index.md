@@ -99,7 +99,7 @@ Professional tree care to maintain health, safety and appearance. Small to mediu
 
 ## Commercial & strata services
 
-Grounds maintenance for strata complexes and commercial sites across Canberra and Queanbeyan, at one fixed price per visit, from $120 ex GST. Details: https://ecomowcanberra.com.au/services/commercial-strata/
+Grounds maintenance for strata complexes and commercial sites across Canberra and Queanbeyan, at one fixed price per visit, quoted for each site. Details: https://ecomowcanberra.com.au/services/commercial-strata/
 
 - Visits that follow the seasons, on a day you agree
 - Quiet battery tools, so early visits don't wake residents
