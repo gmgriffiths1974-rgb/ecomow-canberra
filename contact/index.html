@@ -197,7 +197,9 @@
       <p>For fastest response, text your address and a photo to <a href="sms:+61468039979?&body=Hi%20Kai%2C%20I%20found%20you%20on%20ecomowcanberra.com.au%20and%20I%27d%20like%20a%20quote.%20My%20address%20is%20"><strong>0468 039 979</strong></a>.</p>
     </div>
 
-    <form action="https://formspree.io/f/xbdpbzkj" method="POST" style="display:grid;gap:var(--s-4);max-width:560px;margin:0 auto">
+    <form action="https://ops.wellhandled.au/api/form-submit" method="POST" style="display:grid;gap:var(--s-4);max-width:560px;margin:0 auto">
+      <input type="hidden" name="_client" value="ecomow">
+      <input type="text" name="_gotcha" value="" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0">
       <div>
         <label for="name" style="display:block;font-weight:600;margin-bottom:var(--s-1)">Your name</label>
         <input id="name" name="name" type="text" required style="width:100%;padding:var(--s-3);border:2px solid var(--green-100);border-radius:var(--radius-sm);font-size:1rem;background:white">
@@ -342,7 +344,7 @@
   window.addEventListener('load', function () { if (!moved) go(); });
 })();
 (function () {
-  var f = document.querySelector('form[action^="https://formspree.io"]');
+  var f = document.querySelector('form[action^="https://ops.wellhandled.au"]');
   if (!f || !window.fetch || !window.FormData) return;
   var fallback = false;
   f.addEventListener('submit', function (e) {

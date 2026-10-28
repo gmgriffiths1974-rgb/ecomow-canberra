@@ -342,8 +342,10 @@
       <h2 id="quote-heading">Send the site and the scope, and Kai will quote it.</h2>
       <p>Or call or text Kai on <a href="tel:+61468039979"><strong>0468 039 979</strong></a>. To send the work order as a PDF, email it to <a href="mailto:ecomowcanberra@gmail.com">ecomowcanberra@gmail.com</a>.</p>
     </div>
-    <form action="https://formspree.io/f/xbdpbzkj" method="POST" style="display:grid;gap:var(--s-4);max-width:560px;margin:0 auto">
-      <input type="hidden" name="_subject" value="Strata quote request from ecomowcanberra.com.au">
+    <form action="https://ops.wellhandled.au/api/form-submit" method="POST" style="display:grid;gap:var(--s-4);max-width:560px;margin:0 auto">
+      <input type="hidden" name="_client" value="ecomow">
+      <input type="text" name="_gotcha" value="" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0">
+      <input type="hidden" name="_form" value="strata-quote">
       <input type="hidden" name="service" value="Strata grounds maintenance (quote request)">
       <div>
         <label for="name" style="display:block;font-weight:600;margin-bottom:var(--s-1)">Your name</label>
