@@ -81,17 +81,17 @@ Gutters cleared, accessible downpipes tested, before-and-after photos provided. 
 
 Call, text or request a quote online. Photos help us price it quicker.
 
-- 2 Free quote We assess what you need and send clear, itemised pricing. No surprises.
+- 2 Free quote You get clear, itemised pricing for exactly what you need. No surprises.
 
 ### Free quote
 
-We assess what you need and send clear, itemised pricing. No surprises.
+You get clear, itemised pricing for exactly what you need. No surprises.
 
-- 3 Book a time Pick a window that suits you. We confirm by SMS and turn up on time.
+- 3 Book a time Pick a window that suits you. You get an SMS to confirm, and we turn up on time.
 
 ### Book a time
 
-Pick a window that suits you. We confirm by SMS and turn up on time.
+Pick a window that suits you. You get an SMS to confirm, and we turn up on time.
 
 - 4 Enjoy the result Sit back while we do the work. Photos sent when we're done.
 
@@ -117,7 +117,7 @@ Sit back while we do the work. Photos sent when we're done.
 
 EcoMow started with one mower, one ute and a simple idea — that lawn care in Canberra shouldn't mean petrol fumes, 6am noise and tradies who don't turn up. Since 2022 we've been building a reputation across the Inner North, Inner South and Woden Valley for being quiet, tidy, reliable and properly eco-friendly.
 
-We use battery-powered equipment charged by the sun at home. No petrol. No two-stroke smoke. No waking the baby next door. Just clean, careful work, done well, every time.
+Your street stays quiet and fume-free, because every tool runs on batteries charged by the sun at home. No petrol. No two-stroke smoke. No waking the baby next door. Just clean, careful work, done well, every time.
 
 ## How we show up, every single visit.
 
@@ -133,11 +133,11 @@ We turn up when we say we will, work inside permitted daytime hours, and keep no
 
 Solar-charged at home. No petrol, no two-stroke, no early-morning wake-ups. Kinder to your family and your neighbours.
 
-- Tidy finish with green waste handled We clean up after ourselves. Clippings and debris go in your bin, get mulched on site, or get taken away — your call.
+- Tidy finish with green waste handled Nothing is left for you to clean up. Clippings and debris go in your bin, get mulched on site, or get taken away: your call.
 
 ### Tidy finish with green waste handled
 
-We clean up after ourselves. Clippings and debris go in your bin, get mulched on site, or get taken away — your call.
+Nothing is left for you to clean up. Clippings and debris go in your bin, get mulched on site, or get taken away: your call.
 
 - Clear comms and easy scheduling Booking windows confirmed by SMS. Photos on request. Reschedule by text. No phone tag, no chasing.
 
@@ -167,7 +167,7 @@ Inner North, Inner South, and Woden Valley. Based in Hackett so scheduling is fa
 
 ### Is everything really battery powered?
 
-Yes, every piece of gear. Mowers, edgers, hedge trimmers, blowers, all of it runs on batteries, and those batteries are charged off solar panels. No petrol goes near a job. That means no exhaust fumes drifting in your windows, no jerry cans rattling around in the back, and a lot less noise than the petrol crew down the street. We are not aware of anyone else in Canberra running a fully solar-charged setup.
+Yes, every piece of gear. Mowers, edgers, hedge trimmers, blowers, all of it runs on batteries, and those batteries are charged off solar panels. No petrol goes near a job. That means no exhaust fumes drifting in your windows, no jerry cans rattling around in the back, and a lot less noise than the petrol crew down the street.
 
 ### Which Canberra suburbs do you cover?
 
