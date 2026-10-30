@@ -80,12 +80,11 @@ Keep your garden beds pristine with regular weeding and prevention strategies. H
 
 ## Gutter cleaning
 
-Keep your gutters flowing freely with safe, thorough cleaning services. Full debris removal, downpipes checked where safely accessible, and before-and-after photos so you can see the difference.
+Keep your gutters flowing freely with safe, thorough cleaning services. Full debris removal and downpipes checked where safely accessible.
 
 - Complete debris removal
 - Downpipe clearing and testing
 - Safety-first approach with proper equipment
-- Before and after photos provided
 
 ## Tree pruning and trimming
 

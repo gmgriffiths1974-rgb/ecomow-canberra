@@ -36,11 +36,11 @@ Weeding, leaf and debris removal, bed resets and mulch top-ups. Big one-off jobs
 
 Weekly, fortnightly or monthly visits matched to growth. Consistent colour and coverage all season.
 
-- Gutter cleaning Gutters cleared and accessible downpipes tested. Safety-first with before-and-after photos. See details
+- Gutter cleaning Gutters cleared and accessible downpipes tested. Safety-first with proper gear. See details
 
 ### Gutter cleaning
 
-Gutters cleared and accessible downpipes tested. Safety-first with before-and-after photos.
+Gutters cleared and accessible downpipes tested. Safety-first with proper gear.
 
 - Tree pruning and trimming Small to medium trees shaped, deadwood removed, safer walkways. Not in powerline hazard zones. See details
 
@@ -70,15 +70,15 @@ Kind to kids, pets and shift-worker neighbours.
 
 Your green bin, mulched on site, or taken away.
 
-- SMS-based comms and photo updates No phone tag. Photos sent on request.
+- SMS-based comms No phone tag. Bookings confirmed and rescheduled by text.
 
-### SMS-based comms and photo updates
+### SMS-based comms
 
-No phone tag. Photos sent on request.
+No phone tag. Bookings confirmed and rescheduled by text.
 
 ### Griffith regular fortnightly
 
-Character home on a leafy Griffith street, fortnightly visit through the warmer months. Full mow, edge, verge trim, quick tidy on the lavender border, photos sent through. The kind of regular that keeps a front garden looking like it belongs on the street.
+Character home on a leafy Griffith street, fortnightly visit through the warmer months. Full mow, edge, verge trim, quick tidy on the lavender border. The kind of regular that keeps a front garden looking like it belongs on the street.
 
 ## What our customers say.
 
@@ -98,7 +98,7 @@ Yes. We use your green bin where possible, and can remove excess on request. For
 
 Yes, we mow and edge verges and keep paths clean. If your street has specific rules, let us know and we'll work with them.
 
-No. Provide access instructions and we'll handle the rest. We can send photos when finished so you know it's done.
+No. Provide access instructions and we'll handle the rest.
 
 Yes. Weekly, fortnightly or monthly depending on growth. You can adjust by SMS anytime — no lock-in contracts.
 

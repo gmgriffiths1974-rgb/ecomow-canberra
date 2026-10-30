@@ -127,7 +127,7 @@ SUBURBS = [
         "hero_lead": "Greenway is the town centre of Tuggeranong — home to the Tuggeranong Hyperdome, the lake foreshore, government offices, and the highest concentration of medium-density housing in the valley. A lot of the residential properties here are townhouses, apartments, and units rather than standalone houses. Strata and body corporate work is a big part of what we do in Greenway.",
         "why_paragraph": "Greenway's medium-density character means a lot of our work here is for body corporates and strata managers — common area mowing, shared hedge trimming, entrance garden maintenance. We carry all the insurance documentation that strata managers need, invoice cleanly, and deliver consistent results that keep residents happy and managers off the phone.",
         "job_title": "Greenway townhouse complex — common area service",
-        "job_description": "Twelve-unit townhouse complex in Greenway — mowed all common lawn areas, edged along all shared paths, trimmed hedges at the front entrance and along the visitor carpark, cleared leaves from the common courtyard, and blew down all hard surfaces. Monthly schedule, strata manager invoiced directly. Professional photos sent with the invoice.",
+        "job_description": "Twelve-unit townhouse complex in Greenway — mowed all common lawn areas, edged along all shared paths, trimmed hedges at the front entrance and along the visitor carpark, cleared leaves from the common courtyard, and blew down all hard surfaces. Monthly schedule, strata manager invoiced directly.",
         "nearby": ["oxley", "wanniassa", "kambah"],
         "scheduling": "Usually within the week for Greenway",
     },

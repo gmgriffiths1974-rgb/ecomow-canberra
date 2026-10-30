@@ -63,11 +63,11 @@ Weeding, leaf and debris removal, bed resets, one-off transformations. Big overg
 - Hand weeding for precision
 - Bed preparation & replanting
 - Green waste handled
-- Gutter cleaning Gutters cleared, accessible downpipes tested, before-and-after photos provided. Safety-first with proper gear. Full debris removal Downpipes checked Tidy finish, no mess left behind See details
+- Gutter cleaning Gutters cleared and accessible downpipes tested. Safety-first with proper gear. Full debris removal Downpipes checked Tidy finish, no mess left behind See details
 
 ### Gutter cleaning
 
-Gutters cleared, accessible downpipes tested, before-and-after photos provided. Safety-first with proper gear.
+Gutters cleared and accessible downpipes tested. Safety-first with proper gear.
 
 - Full debris removal
 - Downpipes checked
@@ -93,11 +93,11 @@ You get clear, itemised pricing for exactly what you need. No surprises.
 
 Pick a window that suits you. You get an SMS to confirm, and we turn up on time.
 
-- 4 Enjoy the result Sit back while we do the work. Photos sent when we're done.
+- 4 Enjoy the result Sit back while we do the work.
 
 ### Enjoy the result
 
-Sit back while we do the work. Photos sent when we're done.
+Sit back while we do the work.
 
 ## 4.9 stars. 34 reviews. Real Canberra customers.
 
@@ -139,11 +139,11 @@ Solar-charged at home. No petrol, no two-stroke, no early-morning wake-ups. Kind
 
 Nothing is left for you to clean up. Clippings and debris go in your bin, get mulched on site, or get taken away: your call.
 
-- Clear comms and easy scheduling Booking windows confirmed by SMS. Photos on request. Reschedule by text. No phone tag, no chasing.
+- Clear comms and easy scheduling Booking windows confirmed by SMS. Reschedule by text. No phone tag, no chasing.
 
 ### Clear comms and easy scheduling
 
-Booking windows confirmed by SMS. Photos on request. Reschedule by text. No phone tag, no chasing.
+Booking windows confirmed by SMS. Reschedule by text. No phone tag, no chasing.
 
 ## Servicing 31 Canberra suburbs across three regions.
 

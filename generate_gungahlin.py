@@ -91,7 +91,7 @@ SUBURBS = [
         "hero_lead": "Gungahlin town centre is the hub of the district — shops, restaurants, the light rail terminus, government offices, and a high concentration of medium-density residential development. Townhouses, apartments, and unit complexes are the dominant residential form here, which means a lot of our work in Gungahlin is strata and body corporate maintenance.",
         "why_paragraph": "Gungahlin's town centre character means we're mostly working on common areas, shared gardens, and body corporate properties here. We carry full public liability documentation, invoice directly to strata managers or body corporate committees, and provide the kind of reliable, documented service that keeps everyone happy — residents, managers, and committee members.",
         "job_title": "Gungahlin apartment complex — quarterly grounds maintenance",
-        "job_description": "Twenty-four-unit apartment complex in Gungahlin — all common lawns mowed, entrance hedges trimmed, garden beds weeded and mulch topped up, courtyard areas cleared, bin enclosure tidied, and visitor carpark edges edged. Quarterly deep-maintenance visit supplementing the fortnightly mow. Full photo report provided to the body corporate manager.",
+        "job_description": "Twenty-four-unit apartment complex in Gungahlin — all common lawns mowed, entrance hedges trimmed, garden beds weeded and mulch topped up, courtyard areas cleared, bin enclosure tidied, and visitor carpark edges edged. Quarterly deep-maintenance visit supplementing the fortnightly mow.",
         "nearby": ["franklin", "harrison", "palmerston"],
         "scheduling": "Usually within the week for Gungahlin",
     },

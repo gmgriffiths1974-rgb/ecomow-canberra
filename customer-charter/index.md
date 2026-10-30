@@ -26,7 +26,6 @@ At EcoMow, we use battery-powered equipment charged by solar to deliver low-nois
 
 - Confirmed booking window by SMS or email.
 - If weather or access prevents work, we'll notify you promptly and propose the next available time.
-- Optional photo updates of completed work on request.
 
 ## Workmanship Standards
 

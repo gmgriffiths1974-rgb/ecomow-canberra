@@ -39,7 +39,7 @@ SUBURBS = [
         "hero_lead": "Belconnen town centre has a real mix — units, townhouses and older standalone homes around the edges of the lake, plus the newer apartments closer to the mall. Strata gardens, shared common areas, and compact courtyards that still need regular attention even if they're not big quarter-acre blocks.",
         "why_paragraph": "Belconnen town centre jobs range from quick courtyard mows at apartment complexes to full garden maintenance for strata committees. We work around tenant access, keep noise down in dense living areas, and handle the before-and-after reporting that property managers need.",
         "job_title": "Belconnen townhouse complex tidy-up",
-        "job_description": "Strata-managed row of six townhouses — mowed all common areas, trimmed the boundary hedge along the footpath, edged around carparks and blew down all hard surfaces. Monthly program now in place with photo reporting to the strata manager.",
+        "job_description": "Strata-managed row of six townhouses — mowed all common areas, trimmed the boundary hedge along the footpath, edged around carparks and blew down all hard surfaces. Monthly program now in place.",
         "nearby": ["bruce", "page", "kaleen", "giralang", "macquarie"],
         "scheduling": "Usually within the week for Belconnen",
     },
@@ -51,7 +51,7 @@ SUBURBS = [
         "hero_lead": "Bruce wraps around the University of Canberra and the AIS — it's a suburb of two halves. The residential streets west of Haydon Drive have solid 1970s family homes on decent blocks. East of there it's more institutional and commercial. We service the residential side thoroughly, plus rental properties near the uni that need regular upkeep.",
         "why_paragraph": "Bruce has heavier foot traffic than most Belconnen suburbs thanks to the uni, CIT and the stadium. Lawns near shared boundaries cop more wear, verges get parked on, and rental properties often go longer between maintenance visits than they should. We know the difference between a neglected lawn and a damaged one, and treat each accordingly.",
         "job_title": "Bruce rental property pre-inspection clean-up",
-        "job_description": "Investment property near the uni — lawn hadn't been touched in six weeks, edges lost, weeds in the driveway cracks. Full mow, re-edge, weeded paths and front beds, blew down the driveway and patio. Landlord got before-and-after photos same day.",
+        "job_description": "Investment property near the uni — lawn hadn't been touched in six weeks, edges lost, weeds in the driveway cracks. Full mow, re-edge, weeded paths and front beds, blew down the driveway and patio.",
         "nearby": ["belconnen", "evatt", "kaleen", "aranda", "cook"],
         "scheduling": "Usually within the week for Bruce",
     },
@@ -99,7 +99,7 @@ SUBURBS = [
         "hero_lead": "Evatt is a solid family suburb in central Belconnen — well-treed streets, good-sized blocks, and a lot of homes that were built in the late 1970s and still have the original garden layouts. Mature liquidambars, big hedges, and lawns that benefit from consistent care rather than the once-a-month catch-up approach.",
         "why_paragraph": "Evatt's tree canopy is one of the densest in Belconnen, which means heavy leaf drop in autumn and shaded lawns that grow differently to sun-baked yards. We adjust for that — different mowing heights in shaded areas, leaf clearing as part of the regular visit, and gutter cleaning when the liquidambars dump everything at once.",
         "job_title": "Evatt autumn leaf and gutter clean",
-        "job_description": "Full autumn service — gutters cleared of liquidambar leaves, downpipes tested, all hard surfaces blown clean, then a mow and edge to finish. Before-and-after photos sent to the homeowner who was interstate.",
+        "job_description": "Full autumn service — gutters cleared of liquidambar leaves, downpipes tested, all hard surfaces blown clean, then a mow and edge to finish.",
         "nearby": ["kaleen", "bruce", "giralang", "mckellar"],
         "scheduling": "Usually within the week for Evatt",
     },
@@ -183,7 +183,7 @@ SUBURBS = [
         "hero_lead": "Kaleen is one of Belconnen's bigger residential suburbs — long, quiet streets with well-maintained homes and gardens that reflect years of care. The blocks are a good size, the tree cover is solid, and there's a noticeable pride in how the streets look. We service a good number of properties in Kaleen and it shows in the regularity of the work.",
         "why_paragraph": "Kaleen is big enough that we're there most weeks servicing multiple customers on different schedules. That means we know the suburb well — which streets get the afternoon westerly that bakes the front lawn, which blocks have clay soil that holds water, and which hedges are the vigorous growers that need quarterly attention.",
         "job_title": "Kaleen quarterly hedge maintenance",
-        "job_description": "Long boundary hedge along a rear fence — viburnum, about 30 metres, grown up and out over a quarter. Trimmed all three accessible faces to a clean, straight line, shaped the top, collected and removed all clippings. Before-and-after photos provided.",
+        "job_description": "Long boundary hedge along a rear fence — viburnum, about 30 metres, grown up and out over a quarter. Trimmed all three accessible faces to a clean, straight line, shaped the top, collected and removed all clippings.",
         "nearby": ["belconnen", "bruce", "giralang", "evatt", "mckellar"],
         "scheduling": "Usually within the week for Kaleen",
     },
@@ -267,7 +267,7 @@ SUBURBS = [
         "hero_lead": "Scullin is a well-positioned Belconnen suburb with quick access to both the Belconnen town centre and the Calvary Hospital precinct. The homes are mostly 1970s-era on good blocks with established gardens. It's a tidy suburb overall, and our regular customers here help keep it that way.",
         "why_paragraph": "Scullin's proximity to the hospital precinct means a few of our customers here are shift workers — they sleep during the day and our quiet battery equipment is genuinely appreciated. No petrol mowers screaming outside the bedroom window at 8am.",
         "job_title": "Scullin shift-worker-friendly mow",
-        "job_description": "Regular fortnightly customer who works night shifts. We schedule for early afternoon, use the battery mower and blower (about 30% the noise of petrol), and text completion photos rather than knocking. They've said the neighbours have asked who we are because they barely heard us.",
+        "job_description": "Regular fortnightly customer who works night shifts. We schedule for early afternoon, use the battery mower and blower (about 30% the noise of petrol). They've said the neighbours have asked who we are because they barely heard us.",
         "nearby": ["page", "hawker", "florey", "higgins"],
         "scheduling": "Usually within the week for Scullin",
     },
@@ -418,7 +418,7 @@ TEMPLATE = '''<!doctype html>
       "name": "Do I need to be home?",
       "acceptedAnswer": {{
         "@type": "Answer",
-        "text": "No. Provide access instructions and we'll handle the rest. We can send photo updates when finished."
+        "text": "No. Provide access instructions and we'll handle the rest."
       }}
     }},
     {{
@@ -579,7 +579,7 @@ TEMPLATE = '''<!doctype html>
         <div class="service-card">
           <span class="service-card__icon" aria-hidden="true"><svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12l12-8 12 8"/><path d="M6 12v14h20V12"/></svg></span>
           <h3>Gutter cleaning</h3>
-          <p>Gutters cleared and accessible downpipes tested. Safety-first with before-and-after photos.</p>
+          <p>Gutters cleared and accessible downpipes tested. Safety-first with proper gear.</p>
           <a class="service-card__more" href="/services/gutter-cleaning/">See details <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="9 18 15 12 9 6"/></svg></a>
         </div>
       </li>
@@ -615,7 +615,7 @@ TEMPLATE = '''<!doctype html>
       </li>
       <li class="commitment" style="background:var(--green-50);border-color:var(--green-100)">
         <span class="commitment__icon" aria-hidden="true" style="background:var(--green-800);color:var(--gold-400)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></span>
-        <div><h3 style="color:var(--ink-900)">SMS-based comms and photo updates</h3><p style="color:var(--ink-600)">No phone tag. Photos sent on request.</p></div>
+        <div><h3 style="color:var(--ink-900)">SMS-based comms</h3><p style="color:var(--ink-600)">No phone tag. Bookings confirmed and rescheduled by text.</p></div>
       </li>
     </ul>
   </div>
@@ -675,7 +675,7 @@ TEMPLATE = '''<!doctype html>
       <details class="faq"><summary>Do you work early mornings in {name}?</summary><div class="faq__body"><p>Yes, within 07:00–19:00 on weekdays and 10:00–16:00 on weekends. Our battery gear keeps noise low for neighbours, and if you've got shift-workers or babies nearby we'll schedule accordingly.</p></div></details>
       <details class="faq"><summary>Do you remove green waste from {name}?</summary><div class="faq__body"><p>Yes. We use your green bin where possible, and can remove excess on request. For big cleanups we bring the trailer.</p></div></details>
       <details class="faq"><summary>Can you maintain verges and nature strips in {name}?</summary><div class="faq__body"><p>Yes, we mow and edge verges and keep paths clean. If your street has specific rules, let us know and we'll work with them.</p></div></details>
-      <details class="faq"><summary>Do I need to be home?</summary><div class="faq__body"><p>No. Provide access instructions and we'll handle the rest. We can send photos when finished so you know it's done.</p></div></details>
+      <details class="faq"><summary>Do I need to be home?</summary><div class="faq__body"><p>No. Provide access instructions and we'll handle the rest.</p></div></details>
       <details class="faq"><summary>Can I set a regular plan for {name}?</summary><div class="faq__body"><p>Yes. Weekly, fortnightly or monthly depending on growth. You can adjust by SMS anytime — no lock-in contracts.</p></div></details>
     </div>
   </div>
