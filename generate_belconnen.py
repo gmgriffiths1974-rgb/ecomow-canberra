@@ -738,7 +738,7 @@ TEMPLATE = '''<!doctype html>
           <li><a href="/suburbs/">Suburbs</a></li>
           <li><a href="/reviews/">Reviews</a></li>
           <li><a href="/gallery/">Gallery</a></li>
-          <li><a href="/customer-charter/">Customer charter</a></li>
+          <li><a href="/customer-charter/">Customer charter</a></li><li><a href="/privacy/">Privacy</a></li>
           <li><a href="/contact/">Contact</a></li>
         </ul>
       </div>

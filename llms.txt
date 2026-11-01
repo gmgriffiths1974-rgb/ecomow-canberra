@@ -94,6 +94,7 @@ Ride-on mowing and slashing, and handyman or odd jobs. For tree work beyond smal
 - [Contact](https://ecomowcanberra.com.au/contact/): Quote request form, phone, text, email
 - [Gallery](https://ecomowcanberra.com.au/gallery/): Photos of completed work
 - [Customer Charter](https://ecomowcanberra.com.au/customer-charter/): 14-point service guarantee
+- [Privacy](https://ecomowcanberra.com.au/privacy/): what the site collects and how to ask about or delete your details
 
 ## Detailed Markdown Pages
 - [Home](https://ecomowcanberra.com.au/index.md)
@@ -103,4 +104,5 @@ Ride-on mowing and slashing, and handyman or odd jobs. For tree work beyond smal
 - [Contact](https://ecomowcanberra.com.au/contact/index.md)
 - [Gallery](https://ecomowcanberra.com.au/gallery/index.md)
 - [Customer Charter](https://ecomowcanberra.com.au/customer-charter/index.md)
+- [Privacy](https://ecomowcanberra.com.au/privacy/index.md)
 - [AI Sitemap](https://ecomowcanberra.com.au/sitemap-ai.md)
