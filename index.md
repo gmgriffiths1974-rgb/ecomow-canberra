@@ -8,7 +8,7 @@ canonical: "https://ecomowcanberra.com.au/"
 
 Battery-powered, solar-charged lawn mowing, hedging and garden care. Tidy finishes, no fumes, no early-morning noise, and a team who actually shows up when we say we will.
 
-- 4.9 ★ Google 34 reviews
+- 4.9 ★ Google 36 reviews
 - Since 2022 Canberra born & bred
 - Battery only No fumes, no noise
 - Solar charged Powered at home
@@ -99,7 +99,7 @@ Pick a window that suits you. You get an SMS to confirm, and we turn up on time.
 
 Sit back while we do the work.
 
-## 4.9 stars. 34 reviews. Real Canberra customers.
+## 4.9 stars. 36 reviews. Real Canberra customers.
 
 - Fantastic job on short notice — mulch laid down. Reliable, honest, hardworking. Won't use anyone else. Rhys B Downer
 
@@ -187,7 +187,7 @@ It is. This is professional-grade equipment, not the hardware store stuff, and w
 
 ### Who actually turns up to do the work?
 
-Kai, or someone he has trained and works alongside. It is a small team that has been at this since 2022, not a franchise handing your address to whoever happens to be free. That is a fair part of why the Google rating sits at 4.9 across 34 reviews.
+Kai, or someone he has trained and works alongside. It is a small team that has been at this since 2022, not a franchise handing your address to whoever happens to be free. That is a fair part of why the Google rating sits at 4.9 across 36 reviews.
 
 ### What are your hours?
 
