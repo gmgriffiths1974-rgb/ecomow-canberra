@@ -115,7 +115,7 @@
 
 
 ## Other Pages
-- **NDIS Gardening & Yard Maintenance Canberra  — For Support Coordinators  — EcoMow**: NDIS yard maintenance across Canberra and Queanbeyan. Self-managed and plan-managed, within the NDIS price limit, GST-fr...
+- **NDIS Gardening & Yard Maintenance Canberra  — For Support Coordinators**: NDIS yard maintenance across Canberra and Queanbeyan. Self-managed and plan-managed, within the NDIS price limit, GST-fr...
   - HTML: https://ecomowcanberra.com.au/ndis-gardening/
   - Markdown: https://ecomowcanberra.com.au/ndis-gardening/index.md
 
