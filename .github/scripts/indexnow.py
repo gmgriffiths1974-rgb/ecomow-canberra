@@ -14,7 +14,8 @@ Nothing is submitted when no page changed. Standard library only.
 
 Settings come from the workflow's env: SITE_URL, SITE_ROOT, INDEXNOW_KEY,
 HEAD_SHA, and optionally BASE_SHA, SUBMIT_ALL, GH_TOKEN, REPO, DEPLOYMENT_ID,
-ENVIRONMENT, DRY_RUN.
+ENVIRONMENT, DRY_RUN. With SUBMIT_ALL=true and SITEMAP_FILE set, it sends every
+URL in that file instead (for sites deployed by hand rather than from GitHub).
 """
 import json
 import os
@@ -65,8 +66,12 @@ def repo_path(rel):
 
 
 def sitemap_urls(sha):
-    """URLs in sitemap.xml at a commit, limited to this site's host."""
-    text = git("show", "%s:%s" % (sha, repo_path("sitemap.xml")), check=False)
+    """URLs in sitemap.xml at a commit (or in SITEMAP_FILE on disk), limited to this site's host."""
+    if sha == "FILE":
+        with open(env("SITEMAP_FILE"), encoding="utf-8") as f:
+            text = f.read()
+    else:
+        text = git("show", "%s:%s" % (sha, repo_path("sitemap.xml")), check=False)
     if not text:
         return set()
     urls = set(re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", text))
@@ -155,12 +160,16 @@ def main():
     if not (SITE_URL and KEY):
         log("SITE_URL and INDEXNOW_KEY must be set.")
         return 1
-    head = env("HEAD_SHA") or git("rev-parse", "HEAD").strip()
-
-    if SUBMIT_ALL:
+    if SUBMIT_ALL and env("SITEMAP_FILE"):
+        # Hand deploys (The Den's deploy.sh): send what is on disk, committed or not.
+        urls = sorted(sitemap_urls("FILE"))
+        reason = "every URL in %s" % env("SITEMAP_FILE")
+    elif SUBMIT_ALL:
+        head = env("HEAD_SHA") or git("rev-parse", "HEAD").strip()
         urls = sorted(sitemap_urls(head))
         reason = "every URL in the sitemap (manual run)"
     else:
+        head = env("HEAD_SHA") or git("rev-parse", "HEAD").strip()
         base = env("BASE_SHA") or previous_production_sha(head)
         if not base:
             base = (git("rev-parse", head + "^1", check=False) or "").strip()
