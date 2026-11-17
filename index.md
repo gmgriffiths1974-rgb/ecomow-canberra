@@ -1,6 +1,6 @@
 ---
 title: "EcoMow Canberra"
-description: "Battery-powered, solar-charged lawn mowing, hedging and garden care across Canberra. Friendly service, tidy finishes, no noise complaints. Since 2022. Call Kai on 0468 039 979."
+description: "Battery-powered, solar-charged lawn mowing, hedging and garden care across Canberra. Tidy finishes, no noise complaints. Since 2022. Call Kai on 0468 039 979."
 canonical: "https://ecomowcanberra.com.au/"
 ---
 

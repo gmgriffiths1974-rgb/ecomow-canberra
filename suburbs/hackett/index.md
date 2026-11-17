@@ -1,6 +1,6 @@
 ---
 title: "Lawn mowing & garden care in Hackett, ACT"
-description: "Based in Hackett 2602. Local, battery-powered lawn mowing, hedging and garden care with quick scheduling, tidy finishes and neighbour-friendly service. Call Kai on 0468 039 979."
+description: "Based in Hackett 2602. Local, battery-powered lawn mowing, hedging and garden care with quick scheduling and tidy finishes. Call Kai on 0468 039 979."
 canonical: "https://ecomowcanberra.com.au/suburbs/hackett/"
 ---
 
@@ -90,15 +90,27 @@ Same quiet, battery-powered service, same tidy finish. If you're on a street tha
 
 ## Hackett FAQs.
 
+### How soon can you book Hackett jobs?
+
 We're based in Hackett, so scheduling is usually quick. Text your photos and preferred times and we'll confirm the next available window — often same week for Inner North jobs.
+
+### Do you work early mornings?
 
 Yes, within 07:00–19:00 on weekdays and 10:00–16:00 on weekends. Our battery gear keeps noise low for neighbours, and if you've got shift-workers or babies next door we'll schedule accordingly.
 
+### Do you remove green waste?
+
 Yes. We use your green bin where possible, and can remove excess on request. For big cleanups we bring the trailer.
+
+### Can you maintain verges and nature strips?
 
 Yes, we mow and edge verges and keep paths clean. If your street has specific rules, let us know and we'll work with them.
 
+### Do I need to be home?
+
 No. Provide access instructions and we'll handle the rest.
+
+### Can I set a regular plan?
 
 Yes. Weekly, fortnightly or monthly depending on growth. You can adjust by SMS anytime — we won't lock you into anything.
 

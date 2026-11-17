@@ -1,6 +1,6 @@
 ---
 title: "Customer Charter"
-description: "Our 14-point customer charter sets out what you can expect from EcoMow Canberra — every job, every suburb. Service promise, workmanship standards, environmental care, payment, and your rights."
+description: "Our 14-point customer charter sets out what to expect from EcoMow Canberra on every job: service, workmanship, environmental care, payment and your rights."
 canonical: "https://ecomowcanberra.com.au/customer-charter/"
 ---
 

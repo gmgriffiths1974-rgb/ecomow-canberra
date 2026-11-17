@@ -1,6 +1,6 @@
 ---
 title: "Contact & quote"
-description: "Get a free quote for lawn mowing, hedging or garden care across Canberra. Call, text or email Kai directly. Based in Hackett, servicing the whole Canberra region."
+description: "Free quotes for lawn mowing, hedging or garden care across Canberra. Call, text or email Kai directly. Based in Hackett, servicing the whole Canberra region."
 canonical: "https://ecomowcanberra.com.au/contact/"
 ---
 
@@ -26,7 +26,7 @@ Bank transfer preferred. Cash accepted. Simple itemised invoices. Free quotes, c
 
 For fastest response, text your address and a photo to 0468 039 979 .
 
-Your details are only used for quoting and scheduling. See our Customer Charter for details.
+Your details are only used for quoting and scheduling. See our privacy page for details.
 
 ## Questions? We're here to help.
 

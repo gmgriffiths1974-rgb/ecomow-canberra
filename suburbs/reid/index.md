@@ -90,15 +90,27 @@ Same quiet, battery-powered service, same tidy finish. If you're on a street tha
 
 ## Reid FAQs.
 
+### How soon can you book Reid jobs?
+
 Usually same week for Reid — we're Hackett-based and most Inner North, Inner South and Woden Valley suburbs are a short drive. Text your address and preferred times and we'll confirm the next available window.
+
+### Do you work early mornings in Reid?
 
 Yes, within 07:00–19:00 on weekdays and 10:00–16:00 on weekends. Our battery gear keeps noise low for neighbours, and if you've got shift-workers or babies nearby we'll schedule accordingly.
 
+### Do you remove green waste from Reid?
+
 Yes. We use your green bin where possible, and can remove excess on request. For big cleanups we bring the trailer.
+
+### Can you maintain verges and nature strips in Reid?
 
 Yes, we mow and edge verges and keep paths clean. If your street has specific rules, let us know and we'll work with them.
 
+### Do I need to be home?
+
 No. Provide access instructions and we'll handle the rest.
+
+### Can I set a regular plan for Reid?
 
 Yes. Weekly, fortnightly or monthly depending on growth. You can adjust by SMS anytime — no lock-in contracts.
 

@@ -28,9 +28,12 @@ The site's fonts load from Google Fonts, which sees the request your browser mak
 
 ## Turning it off
 
-- Google Analytics: install Google's opt-out add-on for your browser, at tools.google.com/dlpage/gaoptout.
+- Google Analytics: install Google's opt-out add-on for your browser, at tools.google.com/dlpage/gaoptout .
 - Any website: your browser settings can block cookies.
 
 ## Questions
 
-To ask what we hold about you, or to have it corrected or deleted, email ecomowcanberra@gmail.com or call 0468 039 979.
+To ask what we hold about you, or to have it corrected or deleted, email ecomowcanberra@gmail.com or call 0468 039 979 .
+
+---
+*Source: [Privacy](https://ecomowcanberra.com.au/privacy/)*
