@@ -60,15 +60,27 @@ We also time O'Connor hedge visits around the ANU calendar when we can — stude
 
 ## Questions we get from O'Connor customers.
 
+### How much does hedge trimming cost in O'Connor?
+
 Hedge trimming in O'Connor is priced based on the length, height and condition of the hedge. Text us a photo and the approximate run-length to 0468 039 979 and you'll get a clear, free quote — usually back within the hour during business hours.
+
+### Do you remove hedge clippings from O'Connor properties?
 
 Yes. We bag or trailer every clipping, blow the drop zone clean, and you won't find stray bits of hedge on the path, the driveway or the lawn when we leave.
 
+### Can you reset a very overgrown hedge in O'Connor?
+
 Yes — but for significantly overgrown or leggy hedges we often plan the reset across two visits rather than all at once. That keeps the plant healthy and prevents you ending up with bare fence line for months.
+
+### How often should a hedge be trimmed in O'Connor?
 
 Most hedges benefit from two or three trims through the warmer months and one tidy-up at the end of autumn. We can schedule a regular hedge visit alongside your mowing if you want.
 
+### Do you use chainsaws or petrol equipment?
+
 No. All our hedge trimmers are cordless and battery-powered. They're sharper, quieter and cleaner than petrol gear — and they won't wake the neighbours at 9am.
+
+### Can you trim hedges along powerlines in O'Connor?
 
 We don't work inside the Evoenergy hazard zone around live powerlines. If your hedge is near one, we'll happily quote the parts we can reach safely and refer you to an accredited arborist for the rest.
 

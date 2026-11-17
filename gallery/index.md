@@ -1,6 +1,6 @@
 ---
 title: "Gallery — Our work"
-description: "See the quality of our eco-friendly lawn care and garden maintenance work across Canberra. Before-and-afters, finished edges, hedge resets — all done with quiet, battery-powered equipment."
+description: "Our lawn care and garden work across Canberra: before-and-afters, finished edges and hedge resets, all done with quiet, battery-powered equipment."
 canonical: "https://ecomowcanberra.com.au/gallery/"
 ---
 

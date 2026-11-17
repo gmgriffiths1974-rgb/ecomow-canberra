@@ -2,7 +2,7 @@
 import os, re
 from bs4 import BeautifulSoup
 
-ROOT = os.path.expanduser("~/Projects/ecomow-site")
+ROOT = os.path.dirname(os.path.abspath(__file__))  # the repo root, wherever it is checked out
 BASE = "https://ecomowcanberra.com.au"
 os.chdir(ROOT)
 
@@ -19,7 +19,7 @@ def make_md(html_path):
     if not main: return
     for x in main.find_all(["script","style","svg","noscript"]): x.decompose()
     lines, seen = [], set()
-    for el in main.find_all(["h1","h2","h3","h4","p","li","blockquote"]):
+    for el in main.find_all(["h1","h2","h3","h4","summary","p","li","blockquote"]):
         txt = el.get_text(" ", strip=True)
         if not txt or len(txt)<3 or txt in seen: continue
         if el.find_parent("nav"): continue
@@ -28,6 +28,7 @@ def make_md(html_path):
         elif el.name=="h2": lines.append(f"\n## {txt}\n")
         elif el.name=="h3": lines.append(f"\n### {txt}\n")
         elif el.name=="h4": lines.append(f"\n#### {txt}\n")
+        elif el.name=="summary": lines.append(f"\n### {txt}\n")  # FAQ questions sit in <details><summary>
         elif el.name=="li": lines.append(f"- {txt}")
         elif el.name=="blockquote": lines.append(f"\n> {txt}\n")
         else: lines.append(f"\n{txt}\n")
@@ -40,7 +41,7 @@ pages = []
 for root, dirs, files in sorted(os.walk(".")):
     dirs[:] = [d for d in dirs if not d.startswith('.') and d!='assets']
     for fn in files:
-        if fn=="404.html": continue
+        if fn=="404.html" or root.endswith("thanks"): continue  # no mirror for the 404 or the noindex thank-you page
         if fn=="index.html" or fn.endswith(".html"):
             hp = os.path.join(root, fn)
             md = make_md(hp)
@@ -102,8 +103,10 @@ core = sorted([p for p in pages if p[0] in core_order], key=lambda x: core_order
 mow = sorted([p for p in pages if "/lawn-mowing" in p[0]])
 hedge = sorted([p for p in pages if "/hedge-trimming" in p[0]])
 subs = sorted([p for p in pages if p[0].startswith("/suburbs/") and p[0]!="/suburbs/"])
+svc = sorted([p for p in pages if p[0].startswith("/services/") and p[0]!="/services/" and p not in mow and p not in hedge])
+other = sorted([p for p in pages if p[0] in ("/ndis-gardening/","/privacy/")])
 out = "# EcoMow Canberra — AI Sitemap\n\n> Structured index of all pages with markdown mirrors.\n\n## Core Pages\n"
-for group, label in [(core,"Core"),(mow,"Lawn Mowing"),(hedge,"Hedge Trimming"),(subs,"Suburb")]:
+for group, label in [(core,"Core"),(mow,"Lawn Mowing"),(hedge,"Hedge Trimming"),(svc,"Service"),(other,"Other"),(subs,"Suburb")]:
     if group != core: out += f"\n## {label} Pages\n"
     for path, title, desc in group:
         url = f"{BASE}{path}"
