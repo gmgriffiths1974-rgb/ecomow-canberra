@@ -66,7 +66,7 @@ Yes. Clogged gutters filled with dry leaves and debris are a serious bushfire ri
 
 ## Gutter cleaning across Canberra, suburb by suburb.
 
-Kai works out of Hackett and covers 31 suburbs across Canberra's inner north, inner south and Woden Valley. Pick your suburb for the local detail, or just call and ask.
+Kai works out of Hackett and covers 105 suburbs across Canberra and Queanbeyan. Pick your suburb for the local detail, or just call and ask.
 
 ## Need your gutters cleared?
 

@@ -145,9 +145,9 @@ Nothing is left for you to clean up. Clippings and debris go in your bin, get mu
 
 Booking windows confirmed by SMS. Reschedule by text. No phone tag, no chasing.
 
-## Servicing 31 Canberra suburbs across three regions.
+## Servicing 105 suburbs across Canberra and Queanbeyan.
 
-Inner North, Inner South, and Woden Valley. Based in Hackett so scheduling is fast, especially for Inner North jobs.
+Inner North, Inner South, Belconnen, Woden Valley, Weston Creek, Tuggeranong, Gungahlin, Molonglo Valley and Queanbeyan. Based in Hackett so scheduling is fast, especially for Inner North jobs.
 
 ### Inner North
 
@@ -171,7 +171,7 @@ Yes, every piece of gear. Mowers, edgers, hedge trimmers, blowers, all of it run
 
 ### Which Canberra suburbs do you cover?
 
-Kai is based in Hackett and works across 31 suburbs in Canberra's inner north, inner south and Woden Valley. That is where we are most days and where we can usually fit you in fastest. If you are just outside that and you have seen us around, call anyway and we will tell you straight whether we can get to you.
+Kai is based in Hackett and works across 105 suburbs in Canberra and Queanbeyan. The full list is on our suburbs page. If yours is not on it, call anyway and we will tell you straight whether we can get to you.
 
 ### How do I get a quote?
 

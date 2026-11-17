@@ -68,7 +68,7 @@ Yes. Hand weeding and manual removal is our first choice — it's organic, preci
 
 ## Weed management across Canberra, suburb by suburb.
 
-Kai works out of Hackett and covers 31 suburbs across Canberra's inner north, inner south and Woden Valley. Pick your suburb for the local detail, or just call and ask.
+Kai works out of Hackett and covers 105 suburbs across Canberra and Queanbeyan. Pick your suburb for the local detail, or just call and ask.
 
 ## Got weeds that keep coming back?
 
