@@ -1,0 +1,56 @@
+# Tells IndexNow (Bing, and the engines that share its pings) which pages
+# changed, after each successful production deploy on Vercel. Added on
+# 17 November 2026 under the tracking SOP, section 2a.
+# The key is public by design: IndexNow checks it against the file
+# /116631b4a2c191f2b7fd9b30ddb4d425.txt on the site, so it needs no secret.
+name: IndexNow
+
+on:
+  deployment_status:
+  workflow_dispatch:
+    inputs:
+      submit_all:
+        description: "Submit every URL in the sitemap, not just the changed pages"
+        type: boolean
+        default: false
+      base_sha:
+        description: "Compare against this commit instead of the last production deploy (optional)"
+        type: string
+        default: ""
+
+permissions:
+  contents: read
+  deployments: read
+
+concurrency:
+  group: indexnow
+  cancel-in-progress: false
+
+jobs:
+  ping:
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      (github.event.deployment_status.state == 'success' &&
+       startsWith(github.event.deployment.environment, 'Production'))
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.deployment.sha || github.sha }}
+          fetch-depth: 0
+          filter: blob:none
+          sparse-checkout: .github
+      - name: Submit changed pages to IndexNow
+        run: python3 .github/scripts/indexnow.py
+        env:
+          SITE_URL: https://ecomowcanberra.com.au
+          SITE_ROOT: "."
+          INDEXNOW_KEY: 116631b4a2c191f2b7fd9b30ddb4d425
+          HEAD_SHA: ${{ github.event.deployment.sha || github.sha }}
+          BASE_SHA: ${{ inputs.base_sha }}
+          SUBMIT_ALL: ${{ inputs.submit_all }}
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          DEPLOYMENT_ID: ${{ github.event.deployment.id }}
+          ENVIRONMENT: ${{ github.event.deployment.environment }}
