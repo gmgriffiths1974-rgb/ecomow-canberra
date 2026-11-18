@@ -105,6 +105,18 @@
 }
 </script>
   <script src="/assets/js/analytics.js" defer></script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "EcoMow Canberra at work",
+  "description": "24 seconds of EcoMow at work: hedge trimming and battery mowing in Hackett, Reid, O'Connor and Chifley, and finished gardens.",
+  "thumbnailUrl": "https://ecomowcanberra.com.au/assets/video/ecomow-at-work-poster.jpg",
+  "contentUrl": "https://ecomowcanberra.com.au/assets/video/ecomow-at-work.mp4",
+  "uploadDate": "2026-11-18",
+  "duration": "PT24S"
+}
+</script>
 </head>
 <body>
 
@@ -535,9 +547,14 @@
 <section class="section section--paper" aria-labelledby="about-heading">
   <div class="container">
     <div class="about-kai">
-      <div class="about-kai__photo">
-        <img src="/assets/images/team-1.jpg" alt="EcoMow Canberra crew at work on a Canberra garden" loading="lazy">
-      </div>
+      <figure class="about-kai__media">
+        <div class="about-kai__photo">
+          <video controls playsinline preload="none" width="720" height="1280" poster="/assets/video/ecomow-at-work-poster.jpg" aria-label="24 seconds of EcoMow at work: hedge trimming, battery mowing and finished gardens in Canberra">
+            <source src="/assets/video/ecomow-at-work.mp4" type="video/mp4">
+          </video>
+        </div>
+        <figcaption class="about-kai__caption">Tap to watch: 24 seconds of hedges, lawns and finished gardens. No sound.</figcaption>
+      </figure>
       <div>
         <span class="eyebrow">Meet Kai</span>
         <h2 id="about-heading">Canberra born and bred. Hackett based. Having a proper crack since 2022.</h2>

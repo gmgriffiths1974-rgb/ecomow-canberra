@@ -646,6 +646,9 @@ p  { margin: 0 0 var(--s-4); max-width: 68ch; }
   overflow: hidden;
 }
 .about-kai__photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.about-kai__photo video { width: 100%; height: 100%; object-fit: cover; display: block; background: var(--green-100); }
+.about-kai__media { margin: 0; }
+.about-kai__caption { margin-top: var(--s-2); font-size: var(--fs-xs); color: var(--ink-500); text-align: center; }
 .about-kai h2 { margin-bottom: var(--s-4); }
 
 /* -------------------- suburb list -------------------- */
