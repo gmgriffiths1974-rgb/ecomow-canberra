@@ -68,7 +68,7 @@ Timing depends on the grub type. Curl grubs (November–December) need treating 
 
 ## Pest spraying across Canberra, suburb by suburb.
 
-Kai works out of Hackett and covers 31 suburbs across Canberra's inner north, inner south and Woden Valley. Pick your suburb for the local detail, or just call and ask.
+Kai works out of Hackett and covers 105 suburbs across Canberra and Queanbeyan. Pick your suburb for the local detail, or just call and ask.
 
 ## Got a pest problem that needs identifying and treating?
 

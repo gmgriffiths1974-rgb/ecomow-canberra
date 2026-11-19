@@ -68,7 +68,7 @@ Absolutely. Organic and slow-release fertilisers work differently to synthetic f
 
 ## Fertilising across Canberra, suburb by suburb.
 
-Kai works out of Hackett and covers 31 suburbs across Canberra's inner north, inner south and Woden Valley. Pick your suburb for the local detail, or just call and ask.
+Kai works out of Hackett and covers 105 suburbs across Canberra and Queanbeyan. Pick your suburb for the local detail, or just call and ask.
 
 ## Ready to feed your lawn properly?
 

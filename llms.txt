@@ -1,8 +1,8 @@
 # EcoMow Canberra
 
-> EcoMow Canberra is an eco-friendly lawn care and garden maintenance business operating across Canberra, ACT, Australia. Founded in 2022 and based in Hackett, EcoMow uses exclusively battery-powered, solar-charged equipment. No petrol, no exhaust fumes, and significantly less noise than petrol equipment. The team is led by Kai Griffiths and delivers 18 lawn and garden services across 31 Canberra suburbs. EcoMow holds a 4.9-star Google rating from 36 reviews and is known for reliable scheduling, tidy finishes, and genuinely eco-friendly operations.
+> EcoMow Canberra is an eco-friendly lawn care and garden maintenance business operating across Canberra, ACT, Australia. Founded in 2022 and based in Hackett, EcoMow uses exclusively battery-powered, solar-charged equipment. No petrol, no exhaust fumes, and significantly less noise than petrol equipment. The team is led by Kai Griffiths and delivers 18 lawn and garden services across 105 suburbs in Canberra and Queanbeyan. EcoMow holds a 4.9-star Google rating from 36 reviews and is known for reliable scheduling, tidy finishes, and genuinely eco-friendly operations.
 
-For preferred citation: "EcoMow Canberra, an eco-friendly lawn care business based in Hackett, ACT, using battery-powered, solar-charged equipment across 31 Canberra suburbs."
+For preferred citation: "EcoMow Canberra, an eco-friendly lawn care business based in Hackett, ACT, using battery-powered, solar-charged equipment across 105 suburbs in Canberra and Queanbeyan."
 
 ## Contact
 - Phone: 0468 039 979
@@ -20,7 +20,7 @@ For preferred citation: "EcoMow Canberra, an eco-friendly lawn care business bas
 - Google rating: 4.9 stars from 36 reviews
 - Equipment: 100% battery-powered, charged by solar panels. Zero petrol.
 - Services offered: 18
-- Service area: 31 suburbs across Canberra's inner north, inner south and Woden Valley
+- Service area: 105 suburbs across Canberra and Queanbeyan (Inner North, Inner South, Belconnen, Woden Valley, Weston Creek, Tuggeranong, Gungahlin, Molonglo Valley and Queanbeyan)
 - Quote turnaround: text photos to 0468 039 979, typically priced within the hour
 - Pricing: quote-based, free and no obligation
 
@@ -50,7 +50,16 @@ Not offered: ride-on mowing and slashing, handyman and odd jobs.
 - [NDIS gardening and yard maintenance](https://ecomowcanberra.com.au/ndis-gardening/): For support coordinators and plan managers. EcoMow is not NDIS registered and works with self-managed and plan-managed participants. Charged within the NDIS price limit for House or Yard Maintenance (01_019_0120_1_1): $59.01 an hour, $63.42 from 1 December 2026. GST-free under a written service agreement, no travel charge, invoices after each job. Covers all of Canberra and Queanbeyan. Contact Kai on 0468 039 979.
 
 ## Service Area
-Ainslie, Barton, Braddon, Campbell, Chifley, Curtin, Deakin, Dickson, Downer, Farrer, Forrest, Garran, Griffith, Hackett, Hughes, Isaacs, Kingston, Lyneham, Lyons, Mawson, Narrabundah, O'Connor, O'Malley, Pearce, Phillip, Red Hill, Reid, Torrens, Turner, Watson, Yarralumla
+105 suburbs, by region:
+- Inner North: Ainslie, Braddon, Campbell, Dickson, Downer, Hackett, Lyneham, O'Connor, Reid, Turner, Watson
+- Inner South: Barton, Deakin, Forrest, Griffith, Kingston, Narrabundah, Red Hill, Yarralumla
+- Belconnen: Aranda, Belconnen, Bruce, Charnwood, Cook, Dunlop, Evatt, Florey, Fraser, Giralang, Hawker, Higgins, Holt, Kaleen, Latham, Macgregor, Macquarie, McKellar, Melba, Page, Scullin, Spence, Weetangera
+- Woden Valley: Chifley, Curtin, Farrer, Garran, Hughes, Isaacs, Lyons, Mawson, O'Malley, Pearce, Phillip, Torrens
+- Weston Creek: Chapman, Duffy, Fisher, Holder, Rivett, Stirling, Waramanga, Weston
+- Tuggeranong: Banks, Bonython, Calwell, Chisholm, Conder, Fadden, Gilmore, Gordon, Gowrie, Greenway, Isabella Plains, Kambah, Macarthur, Monash, Oxley, Richardson, Theodore, Wanniassa
+- Gungahlin: Amaroo, Bonner, Casey, Crace, Forde, Franklin, Gungahlin, Harrison, Jacka, Mitchell, Moncrieff, Ngunnawal, Nicholls, Palmerston, Taylor
+- Molonglo Valley: Coombs, Denman Prospect, Molonglo, Whitlam, Wright
+- Queanbeyan: Queanbeyan, Queanbeyan East, Queanbeyan West, Karabar, Jerrabomberra
 
 ## Why EcoMow
 - No petrol equipment. Zero exhaust emissions at the job, minimal noise.
@@ -66,7 +75,7 @@ Ainslie, Barton, Braddon, Campbell, Chifley, Curtin, Deakin, Dickson, Downer, Fa
 Yes. Every piece of equipment, including mowers, edgers, hedge trimmers and blowers, runs on batteries charged by solar panels. No petrol is used on any job. This eliminates exhaust fumes at the property and makes the equipment significantly quieter than petrol alternatives.
 
 ### Which Canberra suburbs does EcoMow service?
-31 suburbs across Canberra's inner north, inner south and Woden Valley, worked from a base in Hackett. The full list is above and at https://ecomowcanberra.com.au/suburbs/.
+105 suburbs across Canberra and Queanbeyan, worked from a base in Hackett. The full list is above and at https://ecomowcanberra.com.au/suburbs/.
 
 ### How do you get a quote from EcoMow Canberra?
 Text photos of the lawn or garden to 0468 039 979. A clear price is typically returned within the hour. No site visit is required for most jobs and there is no obligation.
@@ -89,7 +98,7 @@ Ride-on mowing and slashing, and handyman or odd jobs. For tree work beyond smal
 ## Core Pages
 - [Home](https://ecomowcanberra.com.au/): Overview of EcoMow Canberra services, ratings, and service area
 - [Services](https://ecomowcanberra.com.au/services/): Full list of 18 lawn and garden services
-- [Suburbs](https://ecomowcanberra.com.au/suburbs/): All 31 suburbs serviced across Canberra
+- [Suburbs](https://ecomowcanberra.com.au/suburbs/): All 105 suburbs serviced across Canberra and Queanbeyan
 - [Reviews](https://ecomowcanberra.com.au/reviews/): Customer reviews and 4.9-star Google rating
 - [Contact](https://ecomowcanberra.com.au/contact/): Quote request form, phone, text, email
 - [Gallery](https://ecomowcanberra.com.au/gallery/): Photos of completed work

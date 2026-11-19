@@ -80,7 +80,7 @@ Yes. All cuttings are chipped, bundled or disposed of — depending on the size 
 
 ## Pruning across Canberra, suburb by suburb.
 
-Kai works out of Hackett and covers 31 suburbs across Canberra's inner north, inner south and Woden Valley. Pick your suburb for the local detail, or just call and ask.
+Kai works out of Hackett and covers 105 suburbs across Canberra and Queanbeyan. Pick your suburb for the local detail, or just call and ask.
 
 ## Ready to get your plants pruned properly?
 
